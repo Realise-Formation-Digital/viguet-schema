@@ -1563,7 +1563,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Equ55bX3IU3hU9m5Hj1D-499" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2640" width="950" height="500" as="geometry" />
+          <mxGeometry x="160" y="2640" width="950" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Equ55bX3IU3hU9m5Hj1D-500" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;Rack&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Marziano 3eme&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="2670" width="590" height="90" as="geometry" />
